@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+    "persona": {
+            "nombre": "Eduar",
+            "apellido": "Chilon",
+            "dni": 94221723,
+            "recibo":{
+                "nMes": 1,
+                "mes": "Enero",
+                "basico":16000,
+                "descuento":1000,
+                "bono": 1500,
+                "total": 15500
+            }
+        }
+        }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
